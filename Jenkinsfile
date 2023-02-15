@@ -2,7 +2,7 @@
 pipeline {
     
     environment {
-    imagename = "becomedevops/petclinics"
+    imagename = "kiran998972/petclinics"
     registryCredential = 'mydockercredentials'
     dockerImage = ''
   }
